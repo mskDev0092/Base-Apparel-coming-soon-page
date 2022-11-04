@@ -9,3 +9,6 @@ This is a solution to the
 
 - [@msk](https://github.com/mskDev0092/mskDev0092)
 
+## Development
+
+New release will come soon using new tech stack...
